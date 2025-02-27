@@ -7,8 +7,6 @@ _A silent RF disruption tool._
 - **Avoids detection by embedding pulses within background noise**  
 - **Overloads signal receivers without appearing on spectrum scans**  
 
-"A disruption that is not seen is a disruption that is never stopped. DarkPulse is now active."
-
 ### Who Is It For?  
 _"A pulse that is silent is a pulse that is ignored—until it’s too late."_  
 
